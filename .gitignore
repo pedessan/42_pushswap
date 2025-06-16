@@ -1,0 +1,5 @@
+*.o
+push_swap_visualizer
+push_swap.dSYM
+push_swap
+libft/libft.a
